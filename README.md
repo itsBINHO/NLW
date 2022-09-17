@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https.//https://itsBINHO.github.io/nlw/)
+[🔗 Clique aqui para acessar](https.//https://itsBINHO.github.io/nlw/NLW)
 
 ## 🛠️ Tecnologias 
 
@@ -15,6 +15,6 @@ Projeto construído do evento Next Level Week da Rocketseat
 - GIT E GITHUB
 
 ## 📱 Contato 
-
+- bynho92k@gmail.com
 - Instagram: @_robson.rocha
 - 📞 (71) 99182-5476
