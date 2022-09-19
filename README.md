@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https.//https://itsBINHO.github.io/nlw/NLW)
+[🔗 Clique aqui para acessar](https://itsBINHO.github.io/nlw/NLW)
 
 ## 🛠️ Tecnologias 
 
