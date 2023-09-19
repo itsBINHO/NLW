@@ -13,6 +13,6 @@ Projeto construído do evento Next Level Week da Rocketseat
 - GIT E GITHUB
 
 ## 📱 Contato 
-- bynho92k@gmail.com
+- robson.rs0209@gmail.com
 - Instagram: @_robson.rocha
 - 📞 (71) 99182-5476
